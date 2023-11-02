@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "dataIni": "Jun 8, 2023, 5:12:21 PM",
+    "rounds": 2,
+    "ronda_actual": 1,
+    "codebreaker": {
+      "jugades": [
+        [
+          "VERD",
+          "VERD",
+          "VERD",
+          "GROC"
+        ]
+      ],
+      "codi": {
+        "availColors": [
+          "BLAU",
+          "VERMELL",
+          "VERD",
+          "GROC",
+          "TARONJA",
+          "MAGENTA"
+        ],
+        "posicions": 4,
+        "codi": [
+          "BLAU",
+          "BLAU",
+          "BLAU",
+          "BLAU"
+        ],
+        "torns": 16
+      }
+    },
+    "dificultat": "FACIL",
+    "punts_huma": 0,
+    "punts_maquina": 4,
+    "rondes": [
+      {
+        "torn_actual": 5,
+        "codi": {
+          "availColors": [
+            "BLAU",
+            "VERMELL",
+            "VERD",
+            "GROC",
+            "TARONJA",
+            "MAGENTA"
+          ],
+          "posicions": 4,
+          "codi": [
+            "VERD",
+            "VERD",
+            "GROC",
+            "BLAU"
+          ],
+          "torns": 16
+        },
+        "codebreaker": {
+          "jugades": [],
+          "codi": {
+            "availColors": [
+              "BLAU",
+              "VERMELL",
+              "VERD",
+              "GROC",
+              "TARONJA",
+              "MAGENTA"
+            ],
+            "posicions": 4,
+            "codi": [
+              "VERD",
+              "VERD",
+              "GROC",
+              "BLAU"
+            ],
+            "torns": 16
+          }
+        },
+        "ajuda": {
+          "jugades": [
+            [
+              "BLAU",
+              "BLAU",
+              "BLAU",
+              "BLAU"
+            ],
+            [
+              "MAGENTA",
+              "MAGENTA",
+              "TARONJA",
+              "BLAU"
+            ],
+            [
+              "VERMELL",
+              "VERD",
+              "GROC",
+              "BLAU"
+            ],
+            [
+              "VERMELL",
+              "VERD",
+              "VERMELL",
+              "BLAU"
+            ],
+            [
+              "VERD",
+              "VERD",
+              "GROC",
+              "BLAU"
+            ]
+          ],
+          "codi": {
+            "availColors": [
+              "BLAU",
+              "VERMELL",
+              "VERD",
+              "GROC",
+              "TARONJA",
+              "MAGENTA"
+            ],
+            "posicions": 4,
+            "codi": [
+              "VERD",
+              "VERD",
+              "GROC",
+              "BLAU"
+            ],
+            "torns": 16
+          }
+        },
+        "dificultat": "FACIL",
+        "acabada": true,
+        "guanyada": true,
+        "punts_codemaker": 4,
+        "last_guess": [
+          "VERD",
+          "VERD",
+          "GROC",
+          "BLAU"
+        ],
+        "last_response": [
+          "BLANC",
+          "BLANC",
+          "BLANC",
+          "BLANC"
+        ]
+      },
+      {
+        "torn_actual": 0,
+        "codi": {
+          "availColors": [
+            "BLAU",
+            "VERMELL",
+            "VERD",
+            "GROC",
+            "TARONJA",
+            "MAGENTA"
+          ],
+          "posicions": 4,
+          "codi": [
+            "BLAU",
+            "BLAU",
+            "BLAU",
+            "BLAU"
+          ],
+          "torns": 16
+        },
+        "codebreaker": {
+          "jugades": [
+            [
+              "VERD",
+              "VERD",
+              "VERD",
+              "GROC"
+            ]
+          ],
+          "codi": {
+            "availColors": [
+              "BLAU",
+              "VERMELL",
+              "VERD",
+              "GROC",
+              "TARONJA",
+              "MAGENTA"
+            ],
+            "posicions": 4,
+            "codi": [
+              "BLAU",
+              "BLAU",
+              "BLAU",
+              "BLAU"
+            ],
+            "torns": 16
+          }
+        },
+        "ajuda": {
+          "jugades": [],
+          "codi": {
+            "availColors": [
+              "BLAU",
+              "VERMELL",
+              "VERD",
+              "GROC",
+              "TARONJA",
+              "MAGENTA"
+            ],
+            "posicions": 4,
+            "codi": [
+              "BLAU",
+              "BLAU",
+              "BLAU",
+              "BLAU"
+            ],
+            "torns": 16
+          }
+        },
+        "dificultat": "FACIL",
+        "acabada": false,
+        "guanyada": false,
+        "punts_codemaker": 0,
+        "last_guess": [],
+        "last_response": []
+      }
+    ],
+    "current_codemaker": true,
+    "current_codebreaker": false,
+    "estretegia": false
+  }
+]

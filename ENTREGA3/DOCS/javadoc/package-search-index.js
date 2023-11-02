@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ControladorPersistencia"},{"l":"ControladorsDomini"},{"l":"domain"},{"l":"exceptions"},{"l":"presentacio"},{"l":"presentacio.vistes"}]
